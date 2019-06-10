@@ -1,0 +1,11 @@
+C:\Users\ADM\source\repos\Atividade 2- Alice Reis\bin\Debug\netcoreapp2.1\Atividade 2- Alice Reis.deps.json
+C:\Users\ADM\source\repos\Atividade 2- Alice Reis\bin\Debug\netcoreapp2.1\Atividade 2- Alice Reis.runtimeconfig.json
+C:\Users\ADM\source\repos\Atividade 2- Alice Reis\bin\Debug\netcoreapp2.1\Atividade 2- Alice Reis.runtimeconfig.dev.json
+C:\Users\ADM\source\repos\Atividade 2- Alice Reis\bin\Debug\netcoreapp2.1\Atividade 2- Alice Reis.dll
+C:\Users\ADM\source\repos\Atividade 2- Alice Reis\bin\Debug\netcoreapp2.1\Atividade 2- Alice Reis.pdb
+C:\Users\ADM\source\repos\Atividade 2- Alice Reis\obj\Debug\netcoreapp2.1\Atividade 2- Alice Reis.csprojAssemblyReference.cache
+C:\Users\ADM\source\repos\Atividade 2- Alice Reis\obj\Debug\netcoreapp2.1\Atividade 2- Alice Reis.csproj.CoreCompileInputs.cache
+C:\Users\ADM\source\repos\Atividade 2- Alice Reis\obj\Debug\netcoreapp2.1\Atividade 2- Alice Reis.AssemblyInfoInputs.cache
+C:\Users\ADM\source\repos\Atividade 2- Alice Reis\obj\Debug\netcoreapp2.1\Atividade 2- Alice Reis.AssemblyInfo.cs
+C:\Users\ADM\source\repos\Atividade 2- Alice Reis\obj\Debug\netcoreapp2.1\Atividade 2- Alice Reis.dll
+C:\Users\ADM\source\repos\Atividade 2- Alice Reis\obj\Debug\netcoreapp2.1\Atividade 2- Alice Reis.pdb
